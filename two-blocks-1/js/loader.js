@@ -1,0 +1,1 @@
+var startGame=function(){mainScript=document.createElement("script"),mainScript.type="text/javascript",mainScript.id="main",mainScript.src="js/game.min.js",document.head.appendChild(mainScript)};
